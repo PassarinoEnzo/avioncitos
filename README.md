@@ -8,6 +8,7 @@ con la lluvia de meteoritos, las naves enemigas que custodian las bases,
 las que pueden aparecer en cualquier momento y muchas cosas mas. sirvete
 de tu disparo principal, tu rayo secundario y tu escudo, pero no olvides
 que estos ultimos deben recargarse en las estaciones de recarga.
+***
 ***Engine:*** Godot v3.4
 
 ***Lenguaje:*** GDScript
